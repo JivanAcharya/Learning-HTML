@@ -1,2 +1,2 @@
 # Learning-HTML
-Trying to build a HTML only site
+Trying to build a very simple HTML only site
